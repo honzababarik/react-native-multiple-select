@@ -2,6 +2,16 @@
 
 [![npm](https://img.shields.io/npm/v/react-native-multiple-select.svg)](https://www.npmjs.com/package/react-native-multiple-select) [![Downloads](https://img.shields.io/npm/dt/react-native-multiple-select.svg)](https://www.npmjs.com/package/react-native-multiple-select) [![Licence](https://img.shields.io/npm/l/react-native-multiple-select.svg)](https://www.npmjs.com/package/react-native-multiple-select)
 
+
+## FORK MADE FOR PERSONAL PROJECT.
+Adds additional features to the original project:
+
+```
+- setting item style in the row
+- removing the search autocomplete
+- possibility to hide the selector initially and pop out the items list immediately
+```
+
 > Simple multi-select component for react-native (Select2 for react-native).
 
 ![multiple](https://user-images.githubusercontent.com/16062709/30819847-0907dd1e-a218-11e7-9980-e70b2d8e7953.gif)  ![single](https://user-images.githubusercontent.com/16062709/30819849-095d6144-a218-11e7-85b9-4e2b96f9ead9.gif)
